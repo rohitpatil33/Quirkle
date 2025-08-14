@@ -1,4 +1,4 @@
-# AuctionVerse (BIDFAIR) 🎯
+# AuctionVerse (Quirkle) 🎯
 
 Quirkle is a powerful, real-time auction platform engineered using the MERN stack and Socket.io, delivering seamless live bidding, strong security, advanced search, user management, and analytics for administrators—all wrapped in a responsive design for every device._
 
@@ -68,7 +68,7 @@ AuctionVerse/
 
 1. **Clone the repository**  
    ```
-   git clone https://github.com/yourusername/auctionverse.git
+   git clone https://github.com/yourusername/quirkle.git
    cd auctionverse
    ```
 
